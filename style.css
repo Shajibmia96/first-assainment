@@ -1,0 +1,61 @@
+span{
+    color: aquamarine;
+}
+.top-banner{
+    display: flex;
+}
+.width-half{
+    width: 40%;
+    margin: 40px;
+}
+img{
+    width: 300px;
+    height: 300px;
+    margin-left: 50px;
+}
+.achor{
+   text-decoration: none;
+   background-color: rgb(241, 25, 54);
+   margin: 40px;
+   padding: 15px;
+   border-radius: 10px;
+}
+#pragrap{
+    margin: 40px;
+}
+#center{
+    text-align: center;
+}
+.text-top{
+    margin: 50px;
+}
+.text-top1{
+    margin: 50px;
+}
+.text-top2{
+    margin: 50px;
+}
+.mid-baner{
+    display: flex;
+    width: 30%;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+.tex-top{
+    background-color: burlywood;
+    border-radius: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.tex-top1{
+    background-color: darkgray;
+    border-radius: 30px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.tex-top2{
+   background-color: rgb(116, 182, 151);
+   border-radius: 30px;
+   margin-left: 5%;
+   margin-right: 5%;
+}
