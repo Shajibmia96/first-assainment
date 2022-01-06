@@ -59,3 +59,32 @@ img{
    margin-left: 5%;
    margin-right: 5%;
 }
+.mini-mid{
+    display: flex;
+   margin-top: 150px;
+   
+}
+.mini-med{
+    margin-left: 50px;
+    width: 40%;
+}
+
+.mini-mini{
+    display: flex;
+    margin: 40px;
+}
+
+
+.mini-mi{
+    width: 40%;
+    padding: 40px;
+}
+#mini-achor{
+    text-decoration: none;
+    background-color: rgb(241, 25, 54);
+    margin-top: 40px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+
